@@ -1,0 +1,22 @@
+[16:12:43] === Game Session Started ===
+[16:12:43] [Log] GameStart
+[16:12:54] [Log] 물고기, DMG : 14
+[16:12:54] [Log] 사자, DMG : 5
+[16:12:54] [Log] 물병, DMG : 5
+[16:12:54] [Log] 양, DMG : 5
+[16:12:54] [Log] 게, DMG : 19
+[16:12:54] [Log] 염소, DMG : 8
+[16:12:55] [Log] 게, DMG : 8
+[16:12:55] [Log] 물병, DMG : 18
+[16:12:56] [Log] GameOver
+[16:12:58] [Log] GameStart
+[16:14:10] [Log] 뱀주인, DMG : 1
+[16:14:10] [Log] 양, DMG : 10
+[16:14:10] [Log] 쌍둥이, DMG : 9
+[16:14:10] [Log] 천칭, DMG : 8
+[16:14:10] [Log] 염소, DMG : 22
+[16:14:11] [Log] 물고기, DMG : 9
+[16:14:11] [Log] 사자, DMG : 5
+[16:14:11] [Log] 처녀, DMG : 12
+[16:14:12] [Log] GameOver
+[16:14:14] [Log] GameStart
