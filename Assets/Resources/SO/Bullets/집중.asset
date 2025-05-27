@@ -10,19 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 42b6ecfaa67f5f343964f0fb731da9bf, type: 3}
-  m_Name: "\uAD81\uC218"
+  m_Name: "\uC9D1\uC911"
   m_EditorClassIdentifier: 
-  Id: 1
-  title: "\uAD81\uC218"
+  Id: 4
+  title: "\uC9D1\uC911"
   description: 
-  upgrades: 000000000100000001000000000000000000000000000000ffffffffffffffff
+  upgrades: 0000000000000000000000000000000004000000000000000000000000000000
   damages:
+  - 2
+  - 3
+  - 4
   - 5
-  - 7
-  - 9
-  - 12
-  - 17
-  - 20
-  - 25
-  - 30
-  color: {r: 0, g: 1, b: 0.74361134, a: 1}
+  - 6
+  color: {r: 0.9339623, g: 0.29293478, b: 0.20705767, a: 1}
