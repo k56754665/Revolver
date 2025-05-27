@@ -1,0 +1,12 @@
+[18:51:37] === Game Session Started ===
+[18:51:38] [Log] GameStart
+[18:52:06] [Log] GameOver
+[18:52:10] [Log] GameStart
+[18:52:26] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[18:52:27] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+

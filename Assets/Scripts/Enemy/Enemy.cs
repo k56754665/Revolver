@@ -9,14 +9,42 @@ public class Enemy : MonoBehaviour
     public float MaxHp => _maxHp;
     public float Hp => _hp;
 
-    [SerializeField] float _maxHp = 100f;
-    float _hp = 100f;
+    float _maxHp;
+    float _hp;
+    float _moveSpeed;
+    bool _isMoving = false;
 
+    Player _player;
+    Text_EnemyHp _enemyText;
     Coroutine _dieCoroutine;
 
-    void Start()
+    public void Init(float maxHp, float moveSpeed)
     {
-        _hp = _maxHp;
+        _maxHp = maxHp;
+        _hp = maxHp;
+        _moveSpeed = moveSpeed;
+        _enemyText = GetComponentInChildren<Text_EnemyHp>();
+        _enemyText.Init();
+        _player = FindAnyObjectByType<Player>();
+        if (_player != null)
+            Managers.GameManager.OnEnterShootEvent += StartMove;
+    }
+
+    void Update()
+    {
+        if (_player == null || !_isMoving)
+            return;
+
+        transform.position = Vector3.MoveTowards(
+            transform.position,
+            _player.transform.position,
+            _moveSpeed * Time.deltaTime
+        );
+    }
+
+    void StartMove()
+    {
+        _isMoving = true;
     }
 
     public void TakeDamage(float damage)
@@ -38,8 +66,13 @@ public class Enemy : MonoBehaviour
     IEnumerator DieCoroutine()
     {
         yield return new WaitForSeconds(0.5f);
-        Destroy(gameObject);
         _dieCoroutine = null;
-        //Managers.GameManager.Restart();
+        Managers.GameManager.EnemyDie();
+        Destroy(gameObject);
+    }
+
+    void OnDestroy()
+    {
+        Managers.GameManager.OnEnterShootEvent -= StartMove;
     }
 }

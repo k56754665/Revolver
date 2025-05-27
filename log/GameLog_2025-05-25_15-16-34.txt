@@ -1,0 +1,11 @@
+[15:16:34] === Game Session Started ===
+[15:16:34] [Log] GameStart
+[15:16:36] [Log] generateImpulse
+[15:16:37] [Log] generateImpulse
+[15:16:37] [Log] generateImpulse
+[15:16:38] [Log] generateImpulse
+[15:16:39] [Log] generateImpulse
+[15:16:40] [Log] generateImpulse
+[15:16:41] [Log] generateImpulse
+[15:16:42] [Log] generateImpulse
+[15:16:43] [Log] GameOver

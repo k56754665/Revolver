@@ -1,0 +1,8 @@
+[14:06:23] === Game Session Started ===
+[14:06:23] [Log] GameStart
+[14:06:25] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+
+[14:06:25] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+

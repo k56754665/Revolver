@@ -28,12 +28,16 @@ public class BulletInSlot : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
         _canvasGroup.alpha = 0f;
 
         Managers.EquipManager.OnSetBulletInSlot += HandleSetBulletInSlot;
+        Managers.Battlemanager.OnFireEvent += HideJustImage;
     }
+
 
     void OnDestroy()
     {
         Managers.EquipManager.OnSetBulletInSlot -= HandleSetBulletInSlot;
+        Managers.Battlemanager.OnFireEvent -= HideJustImage;
     }
+
 
     void HandleSetBulletInSlot(int slot, int id)
     {
@@ -41,6 +45,13 @@ public class BulletInSlot : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
 
         _id = id;
         Show();
+    }
+
+    void HideJustImage(int slot)
+    {
+        if (slot != SlotNum) return;
+
+        _canvasGroup.alpha = 0f;
     }
 
     void Show()

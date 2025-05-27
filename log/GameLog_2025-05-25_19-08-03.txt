@@ -1,0 +1,54 @@
+[19:08:03] === Game Session Started ===
+[19:08:03] [Log] GameStart
+[19:08:22] [Log] randIdx is 4
+[19:08:30] [Log] GameOver
+[19:08:30] [Log] GameStart
+[19:08:42] [Log] randIdx is 4
+[19:08:45] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:46] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:47] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:47] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:48] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:48] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:48] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:49] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:49] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:50] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:51] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:08:51] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:67)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:25)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+

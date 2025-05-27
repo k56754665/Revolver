@@ -1,0 +1,35 @@
+[19:54:36] === Game Session Started ===
+[19:54:36] [Log] GameStart
+[19:54:37] [Log] Stage 1 시작
+[19:54:53] [Log] Stage 1 완료 → 상점으로
+[19:54:53] [Exception] NullReferenceException: Object reference not set to an instance of an object\nUI_Shop.EnterShop () (at Assets/Scripts/UI/Shop/UI_Shop.cs:33)
+GameManager.StartShop () (at Assets/Scripts/Managers/GameManager.cs:25)
+StageManager.CheckEnemyDead () (at Assets/Scripts/Managers/StageManager.cs:101)
+GameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:49)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+
+[19:54:53] [Log] Stage 1 완료 → 상점으로
+[19:54:53] [Exception] NullReferenceException: Object reference not set to an instance of an object\nUI_Shop.EnterShop () (at Assets/Scripts/UI/Shop/UI_Shop.cs:33)
+GameManager.StartShop () (at Assets/Scripts/Managers/GameManager.cs:25)
+StageManager.CheckEnemyDead () (at Assets/Scripts/Managers/StageManager.cs:101)
+GameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:49)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+
+[19:54:55] [Log] Stage 1 완료 → 상점으로
+[19:54:55] [Exception] NullReferenceException: Object reference not set to an instance of an object\nUI_Shop.EnterShop () (at Assets/Scripts/UI/Shop/UI_Shop.cs:33)
+GameManager.StartShop () (at Assets/Scripts/Managers/GameManager.cs:25)
+StageManager.CheckEnemyDead () (at Assets/Scripts/Managers/StageManager.cs:101)
+GameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:49)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+
+[19:54:56] [Log] Stage 1 완료 → 상점으로
+[19:54:56] [Exception] NullReferenceException: Object reference not set to an instance of an object\nUI_Shop.EnterShop () (at Assets/Scripts/UI/Shop/UI_Shop.cs:33)
+GameManager.StartShop () (at Assets/Scripts/Managers/GameManager.cs:25)
+StageManager.CheckEnemyDead () (at Assets/Scripts/Managers/StageManager.cs:101)
+GameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:49)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+

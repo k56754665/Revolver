@@ -1,0 +1,5 @@
+[20:01:20] === Game Session Started ===
+[20:01:20] [Log] GameStart
+[20:01:28] [Log] Stage 1 시작
+[20:02:15] [Log] Stage 1 완료 → 상점으로
+[20:02:36] [Log] Stage 2 시작

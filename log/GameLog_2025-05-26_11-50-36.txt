@@ -1,0 +1,19 @@
+[11:50:36] === Game Session Started ===
+[11:50:37] [Log] GameStart
+[11:50:38] [Log] Stage 1 시작
+[11:50:52] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:45)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+
+[11:50:52] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:45)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+
+[11:50:52] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:45)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+
+[11:50:53] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGameManager.EnemyDie () (at Assets/Scripts/Managers/GameManager.cs:45)
+Enemy+<DieCoroutine>d__19.MoveNext () (at Assets/Scripts/Enemy/Enemy.cs:70)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <2431722e3e3e41d78b6718bb39ab9111>:0)
+

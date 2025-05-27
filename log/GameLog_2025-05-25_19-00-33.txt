@@ -1,0 +1,80 @@
+[19:00:33] === Game Session Started ===
+[19:00:33] [Log] GameStart
+[19:00:48] [Log] bulletIdx is 1
+[19:00:49] [Log] bulletIdx is 2
+[19:00:50] [Log] bulletIdx is 3
+[19:00:50] [Log] bulletIdx is 4
+[19:00:50] [Log] bulletIdx is 5
+[19:00:51] [Log] bulletIdx is 6
+[19:00:51] [Log] bulletIdx is 7
+[19:00:51] [Log] bulletIdx is 0
+[19:00:52] [Log] GameOver
+[19:00:53] [Log] GameStart
+[19:01:24] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:25] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:25] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:26] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:26] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:27] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:27] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:28] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:28] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:29] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:29] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:29] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:29] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:29] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:30] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:30] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+
+[19:01:30] [Exception] NullReferenceException: Object reference not set to an instance of an object\nPlayer.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Gun/Player.cs:64)
+BattleManager.Fire (System.Int32 bulletIdx) (at Assets/Scripts/Managers/BattleManager.cs:24)
+Player.Update () (at Assets/Scripts/Gun/Player.cs:50)
+

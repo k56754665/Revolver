@@ -1,0 +1,11 @@
+[19:21:02] === Game Session Started ===
+[19:21:03] [Log] GameStart
+[19:21:14] [Log] randIdx is 7
+[19:21:24] [Log] GameOver
+[19:21:25] [Log] GameStart
+[19:21:34] [Log] randIdx is 3
+[19:21:46] [Log] GameOver
+[19:21:52] [Log] GameStart
+[19:22:02] [Log] randIdx is 1
+[19:22:16] [Log] GameClear
+[19:22:17] [Log] GameStart

@@ -1,0 +1,3 @@
+[19:48:19] === Game Session Started ===
+[19:48:19] [Log] GameStart
+[19:48:19] [Warning] You are trying to create a MonoBehaviour using the 'new' keyword.  This is not allowed.  MonoBehaviours can only be added using AddComponent(). Alternatively, your script can inherit from ScriptableObject or no base class at all

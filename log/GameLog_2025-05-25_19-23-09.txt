@@ -1,0 +1,5 @@
+[19:23:09] === Game Session Started ===
+[19:23:09] [Log] GameStart
+[19:23:29] [Log] GameOver
+[19:23:30] [Log] GameStart
+[19:23:47] [Log] GameOver

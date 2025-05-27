@@ -1,0 +1,6 @@
+[17:54:39] === Game Session Started ===
+[17:54:39] [Log] GameStart
+[17:54:52] [Warning] <color=#0099bc><b>DOTWEEN ► </b></color>Tween startup failed (NULL target/property - Void TryThrowEditorNullExceptionObject(UnityEngine.Object, System.String)): the tween will now be killed ► The variable _bulletInven of UI_BulletInventory has not been assigned.
+You probably need to assign the _bulletInven variable of the UI_BulletInventory script in the inspector.
+[17:54:57] [Warning] <color=#ff7337><color=#0099bc><b>DOTWEEN ► </b></color> SAFE MODE ►</color> DOTween's safe mode captured 1 errors. This is usually ok (it's what safe mode is there for) but if your game is encountering issues you should set Log Behaviour to Default in DOTween Utility Panel in order to get detailed warnings when an error is captured (consider that these errors are always on the user side).
+- 1 startup errors

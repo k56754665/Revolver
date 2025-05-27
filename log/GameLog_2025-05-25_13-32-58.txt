@@ -1,0 +1,23 @@
+[13:32:58] === Game Session Started ===
+[13:32:58] [Log] GameStart
+[13:33:02] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+
+[13:33:05] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+
+[13:33:05] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+
+[13:33:05] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+
+[13:33:06] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+
+[13:33:06] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+
+[13:33:06] [Exception] NullReferenceException: Object reference not set to an instance of an object\nGun.Fire () (at Assets/Scripts/Gun/Gun.cs:41)
+Gun.Update () (at Assets/Scripts/Gun/Gun.cs:29)
+

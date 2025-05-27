@@ -1,5 +1,4 @@
 using System;
-using UnityEngine;
 
 public class EquipManager
 {
@@ -55,6 +54,11 @@ public class EquipManager
         }
     }
 
+    /// <summary>
+    /// 슬롯에 총알을 넣어주는 함수
+    /// </summary>
+    /// <param name="slotNum">12시부터 0번째, 시계 방향</param>
+    /// <param name="id">-1이면 총알 빼기</param>
     public void SetBulletInSlot(int slotNum, int id)
     {
         OnSetBulletInSlot?.Invoke(slotNum, id);
@@ -81,7 +85,6 @@ public class EquipManager
         }
 
         // 전체 bullets 순회하면서, 각각 한바퀴씩 더해주기
-
         for (int i = 0; i < 8; i++)
         {
             if (bullets[i] == null)

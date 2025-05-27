@@ -6,7 +6,7 @@ public class Text_EnemyHp : MonoBehaviour
     TMP_Text _text;
     Enemy _enemy;
 
-    void Start()
+    public void Init()
     {
         _enemy = GetComponentInParent<Enemy>();
         _text = GetComponent<TMP_Text>();

@@ -18,7 +18,19 @@ public class Managers : MonoBehaviour
     public static EquipManager EquipManager => _equipManager;
     static EquipManager _equipManager = new EquipManager();
 
-    public static GameLogger GameLogger = _gameLogger;
+    public static BattleManager Battlemanager => _battleManager;
+    static BattleManager _battleManager = new BattleManager();
+
+    public static CursorManager CursorManager => _cursorManager;
+    static CursorManager _cursorManager = new CursorManager();
+
+    public static StageManager StageManager => _stageManager;
+    static StageManager _stageManager = new StageManager();
+
+    public static ItemManager ItemManager => _itemManager;
+    static ItemManager _itemManager = new ItemManager();
+
+    public static GameLogger GameLogger => _gameLogger;
     static GameLogger _gameLogger = new GameLogger();
 
     void Awake()
@@ -42,6 +54,9 @@ public class Managers : MonoBehaviour
         _bulletManager.Init();
         _equipManager.Init();
         _gameManager.Init();
+        _cursorManager.Init();
+        _stageManager.Init();
+        _itemManager.Init();
     }
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
@@ -56,6 +71,8 @@ public class Managers : MonoBehaviour
         {
             _inputManager.Clear();
             _gameLogger.Clear();
+            _cursorManager.Clear();
+            _stageManager.Clear();
             SceneManager.sceneLoaded -= OnSceneLoaded;
         }
     }
